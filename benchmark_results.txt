@@ -1,0 +1,33 @@
+
+======================================================================
+BENCHMARKING SORTING ALGORITHMS
+======================================================================
+
+Dataset: Order Processing Queue (1,000 element sample)
+----------------------------------------------------------------------
+  Bubble Sort         :     1.28 ms |     8.06 KB
+  Selection Sort      :   135.13 ms |     8.09 KB
+  Insertion Sort      :     0.78 ms |     7.96 KB
+  Merge Sort          :     3.18 ms |    19.59 KB
+
+Dataset: Product Catalog (1,000 element sample)
+----------------------------------------------------------------------
+  Bubble Sort         :   294.79 ms |     8.06 KB
+  Selection Sort      :   133.86 ms |     8.09 KB
+  Insertion Sort      :   119.81 ms |     7.96 KB
+  Merge Sort          :     4.33 ms |    16.84 KB
+
+Dataset: Inventory Reconciliation (1,000 element sample)
+----------------------------------------------------------------------
+  Bubble Sort         :   300.87 ms |     8.06 KB
+  Selection Sort      :   133.92 ms |     8.09 KB
+  Insertion Sort      :   130.34 ms |     7.96 KB
+  Merge Sort          :     4.55 ms |    16.84 KB
+
+Dataset: Customer Activity Log (1,000 element sample)
+----------------------------------------------------------------------
+  Bubble Sort         :   176.24 ms |     8.06 KB
+  Selection Sort      :   137.69 ms |     8.09 KB
+  Insertion Sort      :    10.52 ms |     7.96 KB
+  Merge Sort          :     3.09 ms |    19.38 KB
+
